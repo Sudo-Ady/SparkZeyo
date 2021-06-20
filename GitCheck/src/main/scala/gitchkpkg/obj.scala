@@ -1,0 +1,7 @@
+package gitchkpkg
+
+object obj {
+  
+  
+  
+}
